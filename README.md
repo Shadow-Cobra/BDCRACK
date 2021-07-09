@@ -3,10 +3,12 @@
 
 
 #BD_CRACK
+
 #BANGLADESHI FB ID CLONER
+
 #WITHOUT LOGIN
 
-![] #INSTALLATION
+#<============INSTALLATION===============>
 
 # apt update && apt upgrade
 
@@ -18,6 +20,14 @@
 
 # git clone https://github.com/Shadow-Cobra/BDCRACK.git
 
-User: SH4D0W
+# cd BDCRACK
 
-Pass: C0BR4
+# python2 BDCLONE.py
+
+#User: SH4D0W 📌
+
+#Pass: C0BR4 🔑
+
+#Follow Me On Facebook
+
+#Link: [](https://www.facebook.com/shadow.cobra.official/)
